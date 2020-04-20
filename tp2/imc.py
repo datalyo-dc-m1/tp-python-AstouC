@@ -18,7 +18,7 @@ def imc(poids=87,taille=167): #déclaration de la fonction imc#
     else: #aprés chaque deux points, je vais obligatoirement à la ligne
         print ("Vous êtes en obésité massive")
     return imc
-print()
+
 
 mon_imc = imc()
 print (mon_imc)
