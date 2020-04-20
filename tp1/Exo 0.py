@@ -16,3 +16,6 @@ print (d)
 c_type = type(c)  # on récupère le type de c
 print(c_type)     # on affiche le type  et c'est un nombre décimale c'est à dire Float
 
+#A l'aide la fonction int(), créer une nouvelle variable c_int qui contient la valeur de la variable c
+c_int = int(c)      # on crée un entier qui contient la valeur entière de c
+
