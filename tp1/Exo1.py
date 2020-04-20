@@ -1,0 +1,1 @@
+#Ecrire un algorithme qui demande un nombre à l'utilisateur puis affiche le carré de ce nombre
